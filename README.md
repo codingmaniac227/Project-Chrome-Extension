@@ -47,7 +47,6 @@ This Chrome extension is a sleek, user-friendly tool for saving and managing use
 | `index.css`     | Styling for layout, spacing, colors          |
 | `index.js`      | Core logic: DOM, storage, event handling     |
 | `manifest.json` | Chrome Extension config (v3 format)          |
-| `package.json`  | Vite setup for development workflow          |
 
 ---
 
